@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 Banana Cake
 Fried Rice
 Noodle
 Meat Ball
+=======
+Perahu Kertas
+Titanic
+Mission Impossible
+>>>>>>> movies
